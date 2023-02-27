@@ -22,7 +22,7 @@ To build this project you need `autoconf` installed on your computer.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/oabdelha/webserv
+$ git clone git@github.com:C0M-M4ND0/w3bServer.git
 
 # Go into the repository
 $ cd webserv
