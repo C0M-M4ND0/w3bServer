@@ -25,7 +25,7 @@ To build this project you need `autoconf` installed on your computer.
 $ git clone git@github.com:C0M-M4ND0/w3bServer.git
 
 # Go into the repository
-$ cd webserv
+$ cd w3bServer
 
 # Run configure script
 $ ./configure
