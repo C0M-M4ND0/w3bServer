@@ -113,7 +113,8 @@ Overall, this web server provides a high degree of flexibility and configurabili
        <td align="center"><a href="https://github.com/ahkecha"><img src="https://avatars.githubusercontent.com/u/58378453?v=3?s=100" width="100px;" alt="avatar"/><br /><sub><b>ahkecha</b></sub></a><br /><a href="#" title="stuff"></a>
     </tr>
   </tbody>
-</table> 
+</table>
+
 ##### Don't forget to report to me the Errors in the project and also your suggestions about it .... to make it better 😉
 <a href="https://github.com/C0M-M4ND0" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarabdelhadi1337@gmail.com)](mailto:omarabdelhadi1337@gmail.com)
